@@ -1,5 +1,5 @@
 This android app makes it easier to get the check codes for all locations within the stock room.<br>
-This app is fully offline, so you never have to worry about having a connection to use it.
+**This app is fully offline, so you never have to worry about having a connection to use it.**
 
 ![](Download.jpg)
 You will get this warning when you click on download, click on download anyway (highlighted above).
