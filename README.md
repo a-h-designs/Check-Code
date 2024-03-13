@@ -1,5 +1,3 @@
-# **Check code**
-
 This app makes it easier to get the check codes for all locations within the stock room.
 
 ![](Settings.jpg)
